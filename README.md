@@ -40,7 +40,7 @@ A real-time health monitoring system that:
 
 ## 🧑‍💻 Installation & Setup
 
-# 1️⃣ Clone the Repository
+1️⃣ Clone the Repository
 
 1. Clone the Repository
 git clone https://github.com/your-username/health-monitoring-system.git
@@ -64,10 +64,10 @@ Download Kafka: kafka.apache.org/downloads
 
 Extract it and run:
 
-# Start Zookeeper
+ Start Zookeeper
 bin/zookeeper-server-start.sh config/zookeeper.properties
 
-# Start Kafka
+ Start Kafka
 bin/kafka-server-start.sh config/server.properties
 
 4️⃣ Create Kafka Topics
