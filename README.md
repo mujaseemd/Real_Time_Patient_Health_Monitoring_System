@@ -48,7 +48,7 @@ git clone https://github.com/your-username/health-monitoring-system.git
 cd health-monitoring-system
 
 
-3. Set Up Python Virtual Environment
+2. Set Up Python Virtual Environment
    
 sudo apt install python3-venv  # Only once if not installed
 
@@ -58,7 +58,7 @@ source penv/bin/activate
 
 pip install -r requirements.txt
 
-5. Install Apache Kafka + Zookeeper
+3. Install Apache Kafka + Zookeeper
    
 Download Kafka: kafka.apache.org/downloads
 
@@ -116,7 +116,9 @@ python batch_processing.py
 📚 References
 
 Apache Kafka Docs
+
 Apache Spark Docs
+
 MySQL Docs
 
 
