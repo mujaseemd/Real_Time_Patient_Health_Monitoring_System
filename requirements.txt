@@ -1,0 +1,4 @@
+flask==2.2.5
+kafka-python==2.0.2
+mysql-connector-python==8.2.0
+pyspark==3.5.1
